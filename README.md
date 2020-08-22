@@ -1,6 +1,6 @@
 # Langton's Ant
 This is a simple implementation of [Langton's ant](https://en.wikipedia.org/wiki/Langton%27s_ant) using React.
-![LangtonAnt](https://imgur.com/a/CO2AXIa)
+![LangtonAnt](https://i.imgur.com/RYzazNv.gif)
 Langton's ant is a two-dimensional universal Turing machine with a very simple set of rules but complex emergent behavior.
 Squares on a plane are colored variously either black or white. We arbitrarily identify one square as the "ant". The ant can travel in any of the four cardinal directions at each step it takes. The "ant" moves according to the rules below:
 
